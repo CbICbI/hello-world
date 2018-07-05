@@ -1,2 +1,3 @@
 # hello-world
-hello word
+It's my first Gut hub repository
+
